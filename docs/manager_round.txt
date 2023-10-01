@@ -1,0 +1,16 @@
+1. Tell me about yourself ?
+
+Hi, I am roshan currently i am working as software developer in SAP. i am have been developing software for 3 years a
+I am skilled in java, springboot, javascript, cloud foundry and machine learning.
+
+While in SAP i have worked on various projects, initialy i started with with successfactors learning managment system, where i worked 
+on course recommendation systems and then for few months i worked on ERP system for product engineering.
+
+Currently i am working on a product called returnable packaging management, 
+its a cloud based multi tenant saas application, used to track and manage reusable returnable packaging materials in supply chain. 
+My role in this product is that i do end end to app development. from developing UI, Backend and deployment.
+
+Outside of the work, I am technology enthusiast and keen on exploring machine learning and generative AI., 
+ 
+
+
